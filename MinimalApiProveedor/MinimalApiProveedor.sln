@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalApiProveedor", "MinimalApiProveedor\MinimalApiProveedor.csproj", "{663CD892-FD3E-4FFE-8870-B899B2C4EFC0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControllerApiMaterias", "..\ControllerApiMaterias\ControllerApiMaterias.csproj", "{F6B4834F-EE00-4F41-B2C1-0299AE1A1834}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{663CD892-FD3E-4FFE-8870-B899B2C4EFC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{663CD892-FD3E-4FFE-8870-B899B2C4EFC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{663CD892-FD3E-4FFE-8870-B899B2C4EFC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6B4834F-EE00-4F41-B2C1-0299AE1A1834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6B4834F-EE00-4F41-B2C1-0299AE1A1834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6B4834F-EE00-4F41-B2C1-0299AE1A1834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6B4834F-EE00-4F41-B2C1-0299AE1A1834}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
