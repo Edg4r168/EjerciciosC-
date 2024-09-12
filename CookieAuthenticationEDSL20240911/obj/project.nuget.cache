@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "+7H0t/pG1p+SzloUvFIFJ41CdGFQceiEx4vjvNzughVWIcxNYXVdr/JA3rPxePYuIVF7Q3RADvBqYxAgA/bOBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\edg4r\\Desktop\\EjerciciosC#\\CookieAuthenticationEDSL20240911\\CookieAuthenticationEDSL20240911.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edg4r\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\edg4r\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\edg4r\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\edg4r\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\edg4r\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\edg4r\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

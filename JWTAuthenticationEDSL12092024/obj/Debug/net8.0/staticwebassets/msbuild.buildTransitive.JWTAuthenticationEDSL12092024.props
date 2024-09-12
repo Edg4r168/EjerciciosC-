@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\JWTAuthenticationEDSL12092024.props" />
+</Project>

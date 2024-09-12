@@ -1,0 +1,6 @@
+@CookieAuthenticationEDSL20240911_HostAddress = http://localhost:5181
+
+GET {{CookieAuthenticationEDSL20240911_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

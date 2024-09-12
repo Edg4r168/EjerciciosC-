@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ControllerApiMaterias")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fb24fd615477deb838789ceff0c1102a61bc01c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a97d3ad276d3a68a35bd0f8cd9dbf4e84cb7deb7")]
 [assembly: System.Reflection.AssemblyProductAttribute("ControllerApiMaterias")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ControllerApiMaterias")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
